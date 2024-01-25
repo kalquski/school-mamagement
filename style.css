@@ -1,0 +1,25 @@
+
+
+p{
+            font-family: Chilanka;
+            background-color: gray;
+            color: black;
+            \text-align: left}
+        h3{
+            font-family:Chilanka;
+        background-color: gray;
+        color: darkblue}
+        .clean{background-color: lightgray;
+        color: blue}
+        h5{background-color: gray;
+        color: green;
+        text-decoration: underline}
+        body{color: antiquewhite;
+        font-family: Chilanka;
+        background-color: gray}
+        .pure{font-size: 30px;
+        font-family: Dialog}
+#gross{font-size: 30px;
+text-align: center}
+p,h3{color: green}
+#humster{}

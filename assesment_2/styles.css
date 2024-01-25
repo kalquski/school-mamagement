@@ -1,0 +1,32 @@
+p{
+            font-family: Chilanka;
+            background-color: antiquewhite;
+            color: black;
+            \text-align: center}
+        h3{
+            font-family:Chilanka;
+        background-color: gray;
+        color: darkblue}
+        .clean{background-color: lightgray;
+        color: blue}
+        h5{background-color: gray;
+        color: green;
+        text-decoration: underline}
+        body{color: black;
+        font-family: Chilanka;
+        background-color: red}
+        .pure{font-size: 30px;
+        font-family: Dialog;
+        padding: inherit;
+        border-collapse: separate}
+#gross{font-size: 30px;
+text-align: center}
+p,h3{color: green}
+button{background-color: aqua;
+color: green}
+h1{color: white;
+background-color:royalblue;
+text-align: center;
+text-decoration: underline;
+font-size: 40px;
+font-family: "Century Schoolbook L"}
